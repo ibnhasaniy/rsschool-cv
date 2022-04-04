@@ -1,10 +1,12 @@
 ## [RSSchool](https://github.com/ibnhasaniy/rsschool-cv)
 
-# Muhammadyusuf ibn Hasan
-### Contacts
+# **Muhammadyusuf ibn Hasan**
+
+## Contacts
 * __Location:__ Namangan, Uzbekistan
 * __E-mail:__ ibnhasaniy@gmail.com
 * __Phone:__ +9989497230░░
+* __Telegram:__ [Ukropist](https://t.me/ukropist)
 * __GitHub:__ [ibnhasaniy](https://github.com/ibnhasaniy)
 * __LinkedIn:__ [ibnhasaniy](https://linkedin.com/in/ibnhasaniy)
 
@@ -20,6 +22,9 @@
 * Python
 * **OS:** Windows and Linix(*Mint*)
 * **IDE:** Sublime Text, VS Code
+
+## Experience
+ * Coming Soon
 
 ## Education 
 * College Namangan Agricultural Vocational College
