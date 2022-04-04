@@ -3,12 +3,12 @@
 # **Muhammadyusuf ibn Hasan**
 
 ## Contacts
-* __Location:__ Namangan, Uzbekistan
-* __E-mail:__ ibnhasaniy@gmail.com
-* __Phone:__ +9989497230░░
-* __Telegram:__ [Ukropist](https://t.me/ukropist)
-* __GitHub:__ [ibnhasaniy](https://github.com/ibnhasaniy)
-* __LinkedIn:__ [ibnhasaniy](https://linkedin.com/in/ibnhasaniy)
+* **Location:** Namangan, Uzbekistan
+* **E-mail:** ibnhasaniy@gmail.com
+* **Phone:** +9989497230░░
+* **Telegram:** [Ukropist](https://t.me/ukropist)
+* **GitHub:** [ibnhasaniy](https://github.com/ibnhasaniy)
+* **LinkedIn:** [ibnhasaniy](https://linkedin.com/in/ibnhasaniy)
 
 
 ## Skills
